@@ -1,4 +1,4 @@
-package com.example.lab8;
+package com.example.lab8301;
 
 import android.content.Context;
 import android.view.LayoutInflater;
